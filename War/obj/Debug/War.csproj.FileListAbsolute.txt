@@ -1,0 +1,9 @@
+C:\Users\John\Documents\Code\C#\War\War\bin\Debug\War.exe.config
+C:\Users\John\Documents\Code\C#\War\War\bin\Debug\War.exe
+C:\Users\John\Documents\Code\C#\War\War\bin\Debug\War.pdb
+C:\Users\John\Documents\Code\C#\War\War\obj\Debug\War.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Code\C#\War\War\obj\Debug\War.exe
+C:\Users\John\Documents\Code\C#\War\War\obj\Debug\War.pdb
+C:\Users\John\Documents\Code\C#\War\War\obj\Debug\War.WarGUI.resources
+C:\Users\John\Documents\Code\C#\War\War\obj\Debug\War.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Code\C#\War\War\obj\Debug\War.Properties.Resources.resources
